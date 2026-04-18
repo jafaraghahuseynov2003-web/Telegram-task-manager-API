@@ -17,7 +17,7 @@ Goals:
 
 project/💻
  ├── app/
- │   ├── main.py          
+ │   ├── main.py ✅          
  │   ├── models.py       
  │   ├── database.py
  │   ├── routes/
