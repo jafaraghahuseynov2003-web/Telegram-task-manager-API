@@ -13,3 +13,20 @@ Projects:
 Goals:
 - Grow as backend developer
 - Contribute to real world projects
+
+
+project/💻
+ ├── app/
+ │   ├── main.py          
+ │   ├── models.py       
+ │   ├── database.py
+ │   ├── routes/
+ │   │    └── tasks.py
+ │   └── services/
+ │        └── task_service.py
+ │
+ ├── bot/
+ │   └── bot.py           
+ │
+ ├── requirements.txt
+ └── README.md
