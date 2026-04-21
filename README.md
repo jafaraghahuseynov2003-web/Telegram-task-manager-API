@@ -18,7 +18,7 @@ Goals:
 project/💻
  ├── app/
  │   ├── main.py ✅          
- │   ├── models.py       
+ │   ├── models.py (Building database from sqlalchemy)       
  │   ├── database.py
  │   ├── routes/
  │   │    └── tasks.py
