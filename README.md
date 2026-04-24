@@ -9,6 +9,7 @@ Tech stack:
 
 Projects:
 -Telegram bot (aiogram)
+-Telegram task manager API
 
 Goals:
 - Grow as backend developer
@@ -19,7 +20,7 @@ project/💻
  ├── app/
  │   ├── main.py ✅          
  │   ├── models.py (Building database from sqlalchemy)       
- │   ├── database.py
+ │   ├── database.py ✅ 
  │   ├── routes/
  │   │    └── tasks.py
  │   └── services/
