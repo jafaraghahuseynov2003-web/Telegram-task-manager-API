@@ -27,7 +27,7 @@ project/💻
  │        └── task_service.py (In progress)
  │
  ├── bot/
- │   └── bot.py           
+ │   └── bot.py (In progress)           
  │
  ├── requirements.txt
  └── README.md
