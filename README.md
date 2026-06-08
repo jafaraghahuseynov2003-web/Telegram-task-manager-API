@@ -29,5 +29,5 @@ project/💻
  ├── bot/
  │   └── bot.py (In progress)           
  │
- ├── requirements.txt
- └── README.md
+ ├── requirements.txt ✅
+ └── README.md ✅
