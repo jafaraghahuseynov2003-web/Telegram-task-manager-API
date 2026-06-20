@@ -1,11 +1,13 @@
 Hi, I am Jafaragha Huseynov
 
-Junior Python developer
+Python developer, with backend automation focus
 
 Tech stack:
--Python (Rest APIs, aiogram)
+-Python (Rest APIs) 
+-Aiogram
 -Java (learning)
 -Git, Github
+-FastAPI
 
 Projects:
 -Telegram bot (aiogram)
