@@ -26,7 +26,7 @@ project/💻
  │   ├── routes/
  │   │    └── tasks.py ✅  (Already connected to the main.py, by routes folder)
  │   └── services/
- │        └── task_service.py (In progress)
+ │        └── task_service.py (Work on the structure will be introduced)
  │
  ├── bot/
  │   └── bot.py (In progress)           
