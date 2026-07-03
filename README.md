@@ -16,6 +16,7 @@ Projects:
 Goals:
 - Grow as backend developer
 - Contribute to real world projects
+- Logistics automation
 
 
 project/💻
